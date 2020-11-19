@@ -5,10 +5,167 @@ repo: upckmonitor # Your Github repository name
 # Add your sites here
 sites:
   - name: 100diasdeverano
-    url: https://100diasdeverano.com/
+    url: https://100diasdeverano.com
+  - name: AdventaSolutions
+    url: https://adventa.solutions
   - name: Agristarcontigo
-    url: https://agristarcontigo.com/
-
+    url: https://agristarcontigo.com
+  - name: Apymsa
+    url: https://apymsatepremia.com
+  - name: CelebraconCRE
+    url: https://celebraconcre.com
+  - name: Cinemalth
+    url: https://cinemalth.com
+  - name: Cinemalth
+    url: https://cinemalth.com.mx
+  - name: CircuitoCampeones
+    url: https://circuitocampeones.com.mx
+  - name: Circulodehonorapp
+    url: https://circulodehonorapp.com
+  - name: Clubdeganadoresmayoreo
+    url: https://clubdeganadoresmayoreo.com
+  - name: Clubdesocios
+    url: https://clubdesociospepsico.com.mx
+  - name: CNV
+    url: https://circulodehonorpepsico.com
+  - name: Compartamostepremia
+    url: https://compartamostepremia.com
+  - name: Conexionescollins
+    url: https://conexionescollins.com
+  - name: Contpaqistore
+    url: https://contpaqistore.com
+  - name: DbaRewards
+    url: https://dbarewards.com
+  - name: DesafioPepsico
+    url: https://desafiopepsico.com.mx
+  - name: DesafioPepsico
+    url: https://desafiopepsico.com
+  - name: DesafioPepsico
+    url: https://desafiopepsico.mx
+  - name: Devadventa
+    url: https://devadventa.com
+  - name: Diageobaracademy
+    url: https://diageobaracademymexico.com
+  - name: Enlacechopo
+    url: https://enlacechopo.com.mx
+  - name: Erewardsmx
+    url: https://erewardsmxcom
+  - name: Escalaveq
+    url: https://escalaveq.com
+  - name: Escalaveq
+    url: https://escalaveq.com.mx
+  - name: Estrellasypremios
+    url: https://estrellasypremios.com
+  - name: Ferreroenmovimiento
+    url: https://ferreroenmovimiento.com
+  - name: Ganadorespepsico
+    url: https://ganadorespepsico.com
+  - name: Ganamasconpl
+    url: https://ganamasconpl.com
+  - name: GMF
+    url: https://clubroyalelite.com
+  - name: Halcones-Incentivos
+    url: https://halcones-incentivos.com
+  - name: Honorpremia
+    url: https://honorpremia.com
+  - name: Incentivoscvl
+    url: https://incentivoscvl2018.com
+  - name: Infinitibeat
+    url: https://infinitibeat.com
+  - name: Jacto
+    url: https://jactopremios.com
+  - name: Lalataloca
+    url: https://lalataloca.com.mx
+  - name: Lataton
+    url: https://lataton.com
+  - name: Liberatubelleza
+    url: https://liberatubelleza.com.mx
+  - name: Lidereshell
+    url: https://liderescs.com.mx
+  - name: Lubechampions
+    url: https://lubechampions.com.mx
+  - name: Mayre
+    url: https://recompensasmayre.com
+  - name: Minegocioenaccion
+    url: https://minegocioenaccion.com
+  - name: Mitienditaenaccion
+    url: https://mitienditaenaccion.com
+  - name: Motivale
+    url: https://motivale.com
+  - name: Paselibre
+    url: https://paselibreadventa.com
+  - name: Premianavidad
+    url: https://premianavidadpepsico.com
+  - name: Programacinepolitos
+    url: https://programacinepolitos.com
+  - name: Programaclubdeganadores
+    url: https://programaclubdeganadores.com
+  - name: Programaclubdesocios
+    url: https://programaclubdesocios.com
+  - name: Programapremianavidad
+    url: https://programapremianavidad.com
+  - name: Programasocioestrella
+    url: https://programasocioestrella.com
+  - name: Promociontodosganan
+    url: https://promociontodosganan.com
+  - name: Promoshopclarios
+    url: https://promoshopclarios.com.mx
+  - name: Raisingthebar
+    url: https://raisingthebarmexico.mx
+  - name: Rasingthebar
+    url: https://rasingthebarmexico.mx
+  - name: Recibetucodigo
+    url: https://recibetucodigo.com
+  - name: Recompensamostulealtad
+    url: https://recompensamostulealtad.com
+  - name: Recompensasymomentos
+    url: https://recompensasymomentos.com
+  - name: Redrewards
+    url: https://redrewards.mx
+  - name: Redrewards
+    url: https://redrewards.com.mx
+  - name: Samsungtepremia
+    url: https://samsungtepremia.com
+  - name: SocioEstrella
+    url: https://socioestrella.com.mx
+  - name: SocioEstrella
+    url: https://socioestrellapepsico.com.mx
+  - name: SocioEstrella
+    url: https://socioestrellapepsico.mx
+  - name: SocioEstrella
+    url: https://socioestrella.com
+  - name: SocioEstrella
+    url: https://socioestrella.mx
+  - name: SocioPepsico
+    url: https://sociopepsicomexico.com
+  - name: SoporteApymsa
+    url: https://soporteapymsatepremia.com
+  - name: Spionline
+    url: https://spionline.mx
+  - name: Spionline
+    url: https://spi-online.com
+  - name: SuperacionJD
+    url: https://superacionjd.com
+  - name: Superguardianes
+    url: https://superguardianes.com.mx
+  - name: Superguardianes
+    url: https://superguardianes.com
+  - name: Tepremia
+    url: https://tepremia.mx
+  - name: Tiendadenso
+    url: https://tiendadenso.com.mx
+  - name: TodossomosdelRio
+    url: https://todossomosdelrio.com
+  - name: Tracsapremia
+    url: https://tracsapremia.mx
+  - name: Tracsapremia
+    url: https://tracsatepremia.mx
+  - name: Urreapremia
+    url: https://urreapremia.com
+  - name: ZurichFan
+    url: https://zurichfan.com
+  - name: ZurichFan
+    url: https://zurichfan.com.mx
 status-website:
   baseUrl: /upckmonitor
   apiBaseUrl: https://api.github.com
