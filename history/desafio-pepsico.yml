@@ -1,7 +1,7 @@
-- url: https://desafiopepsico.mx
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-11-19T23:41:27.734Z
+- url: https://desafiopepsico.com
+- status: up
+- code: 200
+- responseTime: 110
+- lastUpdated: 2020-11-19T23:55:04.048Z
 - startTime: 2020-11-19T23:12:00.005Z
 - generator: Upptime <https://github.com/upptime/upptime>
