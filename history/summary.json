@@ -1,42 +1,18 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "down",
+    "name": "100diasdeverano",
+    "url": "https://100diasdeverano.com/",
+    "slug": "100diasdeverano",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 187
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "down",
+    "name": "Agristarcontigo",
+    "url": "https://agristarcontigo.com/",
+    "slug": "agristarcontigo",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 0
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 0
+    "time": 156
   }
 ]
