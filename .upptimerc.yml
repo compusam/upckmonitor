@@ -10,7 +10,8 @@ sites:
     url: https://agristarcontigo.com/
 
 status-website:
-  bapiBaseUrl: https://api.github.com
+  baseUrl: /upckmonitor
+  apiBaseUrl: https://api.github.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: UpptimeCheckMonitor
   introTitle: "**Upptime** for check and monitor websites."
