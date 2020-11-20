@@ -5,15 +5,7 @@
     "slug": "100diasdeverano",
     "status": "up",
     "uptime": "100.00",
-    "time": 180
-  },
-  {
-    "name": "AdventaSolutions",
-    "url": "https://adventa.solutions",
-    "slug": "adventa-solutions",
-    "status": "down",
-    "uptime": "0.03",
-    "time": 0
+    "time": 192
   },
   {
     "name": "Agristarcontigo",
@@ -24,27 +16,19 @@
     "time": 164
   },
   {
-    "name": "Apymsa",
-    "url": "https://apymsatepremia.com",
-    "slug": "apymsa",
-    "status": "down",
-    "uptime": "0.02",
-    "time": 0
-  },
-  {
     "name": "CelebraconCRE",
     "url": "https://celebraconcre.com",
     "slug": "celebracon-cre",
     "status": "up",
     "uptime": "100.00",
-    "time": 4091
+    "time": 4336
   },
   {
     "name": "Cinemalth",
     "url": "https://cinemalth.com",
     "slug": "cinemalth",
     "status": "down",
-    "uptime": "0.97",
+    "uptime": "0.70",
     "time": 0
   },
   {
@@ -52,7 +36,7 @@
     "url": "https://cinemalth.com.mx",
     "slug": "cinemalth",
     "status": "down",
-    "uptime": "0.97",
+    "uptime": "0.68",
     "time": 0
   },
   {
@@ -77,14 +61,14 @@
     "slug": "clubdeganadoresmayoreo",
     "status": "up",
     "uptime": "100.00",
-    "time": 238
+    "time": 208
   },
   {
     "name": "Clubdesocios",
     "url": "https://clubdesociospepsico.com.mx",
     "slug": "clubdesocios",
     "status": "down",
-    "uptime": "0.05",
+    "uptime": "0.01",
     "time": 0
   },
   {
@@ -93,14 +77,14 @@
     "slug": "cnv",
     "status": "up",
     "uptime": "100.00",
-    "time": 2658
+    "time": 1432
   },
   {
     "name": "Compartamostepremia",
     "url": "https://compartamostepremia.com",
     "slug": "compartamostepremia",
     "status": "down",
-    "uptime": "0.02",
+    "uptime": "0.01",
     "time": 0
   },
   {
@@ -109,7 +93,7 @@
     "slug": "conexionescollins",
     "status": "up",
     "uptime": "100.00",
-    "time": 155
+    "time": 185
   },
   {
     "name": "Contpaqistore",
@@ -117,7 +101,7 @@
     "slug": "contpaqistore",
     "status": "up",
     "uptime": "100.00",
-    "time": 168
+    "time": 154
   },
   {
     "name": "DbaRewards",
@@ -125,39 +109,15 @@
     "slug": "dba-rewards",
     "status": "up",
     "uptime": "100.00",
-    "time": 204
-  },
-  {
-    "name": "DesafioPepsico",
-    "url": "https://desafiopepsico.com.mx",
-    "slug": "desafio-pepsico",
-    "status": "down",
-    "uptime": "83.45",
-    "time": 76
+    "time": 218
   },
   {
     "name": "DesafioPepsico",
     "url": "https://desafiopepsico.com",
     "slug": "desafio-pepsico",
-    "status": "down",
-    "uptime": "83.42",
-    "time": 76
-  },
-  {
-    "name": "DesafioPepsico",
-    "url": "https://desafiopepsico.mx",
-    "slug": "desafio-pepsico",
-    "status": "down",
-    "uptime": "83.39",
-    "time": 76
-  },
-  {
-    "name": "Devadventa",
-    "url": "https://devadventa.com",
-    "slug": "devadventa",
-    "status": "down",
-    "uptime": "0.05",
-    "time": 0
+    "status": "up",
+    "uptime": "100.00",
+    "time": 89
   },
   {
     "name": "Diageobaracademy",
@@ -165,7 +125,7 @@
     "slug": "diageobaracademy",
     "status": "up",
     "uptime": "100.00",
-    "time": 200
+    "time": 152
   },
   {
     "name": "Enlacechopo",
@@ -173,63 +133,15 @@
     "slug": "enlacechopo",
     "status": "up",
     "uptime": "100.00",
-    "time": 255
+    "time": 247
   },
   {
     "name": "Erewardsmx",
-    "url": "https://erewardsmxcom",
+    "url": "https://erewardsmx.com",
     "slug": "erewardsmx",
-    "status": "down",
-    "uptime": "0.02",
-    "time": 0
-  },
-  {
-    "name": "Escalaveq",
-    "url": "https://escalaveq.com",
-    "slug": "escalaveq",
-    "status": "down",
-    "uptime": "0.03",
-    "time": 0
-  },
-  {
-    "name": "Escalaveq",
-    "url": "https://escalaveq.com.mx",
-    "slug": "escalaveq",
-    "status": "down",
-    "uptime": "0.02",
-    "time": 0
-  },
-  {
-    "name": "Estrellasypremios",
-    "url": "https://estrellasypremios.com",
-    "slug": "estrellasypremios",
-    "status": "down",
-    "uptime": "-0.00",
-    "time": 0
-  },
-  {
-    "name": "Ferreroenmovimiento",
-    "url": "https://ferreroenmovimiento.com",
-    "slug": "ferreroenmovimiento",
-    "status": "down",
-    "uptime": "0.02",
-    "time": 0
-  },
-  {
-    "name": "Ganadorespepsico",
-    "url": "https://ganadorespepsico.com",
-    "slug": "ganadorespepsico",
-    "status": "down",
-    "uptime": "0.97",
-    "time": 0
-  },
-  {
-    "name": "Ganamasconpl",
-    "url": "https://ganamasconpl.com",
-    "slug": "ganamasconpl",
-    "status": "down",
-    "uptime": "1.00",
-    "time": 0
+    "status": "up",
+    "uptime": "100.00",
+    "time": 992
   },
   {
     "name": "GMF",
@@ -237,15 +149,7 @@
     "slug": "gmf",
     "status": "up",
     "uptime": "100.00",
-    "time": 195
-  },
-  {
-    "name": "Halcones-Incentivos",
-    "url": "https://halcones-incentivos.com",
-    "slug": "halcones-incentivos",
-    "status": "down",
-    "uptime": "0.01",
-    "time": 0
+    "time": 212
   },
   {
     "name": "Honorpremia",
@@ -253,23 +157,7 @@
     "slug": "honorpremia",
     "status": "up",
     "uptime": "100.00",
-    "time": 337
-  },
-  {
-    "name": "Incentivoscvl",
-    "url": "https://incentivoscvl2018.com",
-    "slug": "incentivoscvl",
-    "status": "down",
-    "uptime": "0.01",
-    "time": 0
-  },
-  {
-    "name": "Infinitibeat",
-    "url": "https://infinitibeat.com",
-    "slug": "infinitibeat",
-    "status": "down",
-    "uptime": "0.03",
-    "time": 0
+    "time": 369
   },
   {
     "name": "Jacto",
@@ -277,23 +165,7 @@
     "slug": "jacto",
     "status": "up",
     "uptime": "100.00",
-    "time": 1080
-  },
-  {
-    "name": "Lalataloca",
-    "url": "https://lalataloca.com.mx",
-    "slug": "lalataloca",
-    "status": "down",
-    "uptime": "0.03",
-    "time": 0
-  },
-  {
-    "name": "Lataton",
-    "url": "https://lataton.com",
-    "slug": "lataton",
-    "status": "down",
-    "uptime": "0.02",
-    "time": 0
+    "time": 958
   },
   {
     "name": "Liberatubelleza",
@@ -301,7 +173,7 @@
     "slug": "liberatubelleza",
     "status": "up",
     "uptime": "100.00",
-    "time": 235
+    "time": 240
   },
   {
     "name": "Lidereshell",
@@ -317,7 +189,7 @@
     "slug": "lubechampions",
     "status": "up",
     "uptime": "100.00",
-    "time": 162
+    "time": 202
   },
   {
     "name": "Mayre",
@@ -325,38 +197,14 @@
     "slug": "mayre",
     "status": "up",
     "uptime": "100.00",
-    "time": 330
-  },
-  {
-    "name": "Minegocioenaccion",
-    "url": "https://minegocioenaccion.com",
-    "slug": "minegocioenaccion",
-    "status": "down",
-    "uptime": "0.03",
-    "time": 0
-  },
-  {
-    "name": "Mitienditaenaccion",
-    "url": "https://mitienditaenaccion.com",
-    "slug": "mitienditaenaccion",
-    "status": "down",
-    "uptime": "0.02",
-    "time": 0
+    "time": 320
   },
   {
     "name": "Motivale",
     "url": "https://motivale.com",
     "slug": "motivale",
     "status": "down",
-    "uptime": "0.04",
-    "time": 0
-  },
-  {
-    "name": "Paselibre",
-    "url": "https://paselibreadventa.com",
-    "slug": "paselibre",
-    "status": "down",
-    "uptime": "1.01",
+    "uptime": "0.02",
     "time": 0
   },
   {
@@ -364,15 +212,7 @@
     "url": "https://premianavidadpepsico.com",
     "slug": "premianavidad",
     "status": "down",
-    "uptime": "1.02",
-    "time": 0
-  },
-  {
-    "name": "Programacinepolitos",
-    "url": "https://programacinepolitos.com",
-    "slug": "programacinepolitos",
-    "status": "down",
-    "uptime": "0.02",
+    "uptime": "0.72",
     "time": 0
   },
   {
@@ -381,22 +221,14 @@
     "slug": "programaclubdeganadores",
     "status": "up",
     "uptime": "100.00",
-    "time": 219
-  },
-  {
-    "name": "Programaclubdesocios",
-    "url": "https://programaclubdesocios.com",
-    "slug": "programaclubdesocios",
-    "status": "down",
-    "uptime": "0.03",
-    "time": 0
+    "time": 276
   },
   {
     "name": "Programapremianavidad",
     "url": "https://programapremianavidad.com",
     "slug": "programapremianavidad",
     "status": "down",
-    "uptime": "0.02",
+    "uptime": "0.00",
     "time": 0
   },
   {
@@ -405,15 +237,7 @@
     "slug": "programasocioestrella",
     "status": "up",
     "uptime": "100.00",
-    "time": 346
-  },
-  {
-    "name": "Promociontodosganan",
-    "url": "https://promociontodosganan.com",
-    "slug": "promociontodosganan",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 219
+    "time": 327
   },
   {
     "name": "Promoshopclarios",
@@ -421,7 +245,7 @@
     "slug": "promoshopclarios",
     "status": "up",
     "uptime": "100.00",
-    "time": 184
+    "time": 239
   },
   {
     "name": "Raisingthebar",
@@ -429,15 +253,7 @@
     "slug": "raisingthebar",
     "status": "up",
     "uptime": "100.00",
-    "time": 200
-  },
-  {
-    "name": "Rasingthebar",
-    "url": "https://rasingthebarmexico.mx",
-    "slug": "rasingthebar",
-    "status": "down",
-    "uptime": "1.05",
-    "time": 0
+    "time": 285
   },
   {
     "name": "Recibetucodigo",
@@ -445,7 +261,7 @@
     "slug": "recibetucodigo",
     "status": "up",
     "uptime": "100.00",
-    "time": 190
+    "time": 203
   },
   {
     "name": "Recompensamostulealtad",
@@ -453,79 +269,15 @@
     "slug": "recompensamostulealtad",
     "status": "up",
     "uptime": "100.00",
-    "time": 183
-  },
-  {
-    "name": "Recompensasymomentos",
-    "url": "https://recompensasymomentos.com",
-    "slug": "recompensasymomentos",
-    "status": "down",
-    "uptime": "0.01",
-    "time": 0
+    "time": 190
   },
   {
     "name": "Redrewards",
     "url": "https://redrewards.mx",
     "slug": "redrewards",
-    "status": "down",
-    "uptime": "88.01",
-    "time": 170
-  },
-  {
-    "name": "Redrewards",
-    "url": "https://redrewards.com.mx",
-    "slug": "redrewards",
-    "status": "down",
-    "uptime": "88.01",
-    "time": 170
-  },
-  {
-    "name": "Samsungtepremia",
-    "url": "https://samsungtepremia.com",
-    "slug": "samsungtepremia",
-    "status": "down",
-    "uptime": "0.03",
-    "time": 0
-  },
-  {
-    "name": "SocioEstrella",
-    "url": "https://socioestrella.com.mx",
-    "slug": "socio-estrella",
-    "status": "down",
-    "uptime": "1.06",
-    "time": 0
-  },
-  {
-    "name": "SocioEstrella",
-    "url": "https://socioestrellapepsico.com.mx",
-    "slug": "socio-estrella",
-    "status": "down",
-    "uptime": "1.03",
-    "time": 0
-  },
-  {
-    "name": "SocioEstrella",
-    "url": "https://socioestrellapepsico.mx",
-    "slug": "socio-estrella",
-    "status": "down",
-    "uptime": "1.03",
-    "time": 0
-  },
-  {
-    "name": "SocioEstrella",
-    "url": "https://socioestrella.com",
-    "slug": "socio-estrella",
-    "status": "down",
-    "uptime": "1.04",
-    "time": 0
-  },
-  {
-    "name": "SocioEstrella",
-    "url": "https://socioestrella.mx",
-    "slug": "socio-estrella",
-    "status": "down",
-    "uptime": "1.05",
-    "time": 0
+    "status": "up",
+    "uptime": "100.00",
+    "time": 183
   },
   {
     "name": "SocioPepsico",
@@ -533,23 +285,7 @@
     "slug": "socio-pepsico",
     "status": "up",
     "uptime": "100.00",
-    "time": 218
-  },
-  {
-    "name": "SoporteApymsa",
-    "url": "https://soporteapymsatepremia.com",
-    "slug": "soporte-apymsa",
-    "status": "down",
-    "uptime": "-0.00",
-    "time": 0
-  },
-  {
-    "name": "Spionline",
-    "url": "https://spionline.mx",
-    "slug": "spionline",
-    "status": "down",
-    "uptime": "-0.00",
-    "time": 0
+    "time": 250
   },
   {
     "name": "Spionline",
@@ -564,62 +300,6 @@
     "url": "https://superacionjd.com",
     "slug": "superacion-jd",
     "status": "down",
-    "uptime": "0.03",
-    "time": 0
-  },
-  {
-    "name": "Superguardianes",
-    "url": "https://superguardianes.com.mx",
-    "slug": "superguardianes",
-    "status": "down",
-    "uptime": "-0.01",
-    "time": 0
-  },
-  {
-    "name": "Superguardianes",
-    "url": "https://superguardianes.com",
-    "slug": "superguardianes",
-    "status": "down",
-    "uptime": "-0.01",
-    "time": 0
-  },
-  {
-    "name": "Tepremia",
-    "url": "https://tepremia.mx",
-    "slug": "tepremia",
-    "status": "down",
-    "uptime": "1.12",
-    "time": 0
-  },
-  {
-    "name": "Tiendadenso",
-    "url": "https://tiendadenso.com.mx",
-    "slug": "tiendadenso",
-    "status": "down",
-    "uptime": "1.14",
-    "time": 0
-  },
-  {
-    "name": "TodossomosdelRio",
-    "url": "https://todossomosdelrio.com",
-    "slug": "todossomosdel-rio",
-    "status": "down",
-    "uptime": "0.05",
-    "time": 0
-  },
-  {
-    "name": "Tracsapremia",
-    "url": "https://tracsapremia.mx",
-    "slug": "tracsapremia",
-    "status": "down",
-    "uptime": "0.01",
-    "time": 0
-  },
-  {
-    "name": "Tracsapremia",
-    "url": "https://tracsatepremia.mx",
-    "slug": "tracsapremia",
-    "status": "down",
     "uptime": "0.02",
     "time": 0
   },
@@ -629,22 +309,6 @@
     "slug": "urreapremia",
     "status": "up",
     "uptime": "100.00",
-    "time": 194
-  },
-  {
-    "name": "ZurichFan",
-    "url": "https://zurichfan.com",
-    "slug": "zurich-fan",
-    "status": "down",
-    "uptime": "1.16",
-    "time": 0
-  },
-  {
-    "name": "ZurichFan",
-    "url": "https://zurichfan.com.mx",
-    "slug": "zurich-fan",
-    "status": "down",
-    "uptime": "1.17",
-    "time": 0
+    "time": 200
   }
 ]
