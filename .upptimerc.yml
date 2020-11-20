@@ -10,22 +10,12 @@ sites:
     url: https://agristarcontigo.com
   - name: CelebraconCRE
     url: https://celebraconcre.com
-  - name: Cinemalth
-    url: https://cinemalth.com
-  - name: Cinemalth
-    url: https://cinemalth.com.mx
-  - name: CircuitoCampeones
-    url: https://circuitocampeones.com.mx
   - name: Circulodehonorapp
     url: https://circulodehonorapp.com
   - name: Clubdeganadoresmayoreo
     url: https://clubdeganadoresmayoreo.com
-  - name: Clubdesocios
-    url: https://clubdesociospepsico.com.mx
   - name: CNV
     url: https://circulodehonorpepsico.com
-  - name: Compartamostepremia
-    url: https://compartamostepremia.com
   - name: Conexionescollins
     url: https://conexionescollins.com
   - name: Contpaqistore
@@ -55,7 +45,7 @@ sites:
   - name: Mayre
     url: https://recompensasmayre.com  
   - name: Motivale
-    url: https://motivale.com  
+    url: http://motivale.com  
   - name: Premianavidad
     url: https://premianavidadpepsico.com  
   - name: Programaclubdeganadores
