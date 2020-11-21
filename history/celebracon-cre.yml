@@ -1,7 +1,7 @@
 - url: https://celebraconcre.com
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-11-21T14:20:39.274Z
+- status: up
+- code: 200
+- responseTime: 527
+- lastUpdated: 2020-11-21T14:34:14.487Z
 - startTime: 2020-11-19T23:11:13.358Z
 - generator: Upptime <https://github.com/upptime/upptime>
