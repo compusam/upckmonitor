@@ -76,7 +76,7 @@
     "url": "https://desafiopepsico.com",
     "slug": "desafio-pepsico",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "time": 129
   },
   {
@@ -100,7 +100,7 @@
     "url": "https://erewardsmx.com",
     "slug": "erewardsmx",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "99.00%",
     "time": 876
   },
   {
@@ -115,9 +115,9 @@
     "name": "Honorpremia",
     "url": "https://honorpremia.com",
     "slug": "honorpremia",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 457
+    "status": "down",
+    "uptime": "99.98%",
+    "time": 400
   },
   {
     "name": "Jacto",
@@ -140,7 +140,7 @@
     "url": "https://liderescs.com.mx",
     "slug": "lidereshell",
     "status": "down",
-    "uptime": "95.88%",
+    "uptime": "96.00%",
     "time": 0
   },
   {
@@ -164,7 +164,7 @@
     "url": "http://motivale.com",
     "slug": "motivale",
     "status": "up",
-    "uptime": "98.80%",
+    "uptime": "98.83%",
     "time": 309
   },
   {
@@ -172,7 +172,7 @@
     "url": "https://premianavidadpepsico.com",
     "slug": "premianavidad",
     "status": "down",
-    "uptime": "95.90%",
+    "uptime": "96.01%",
     "time": 0
   },
   {
@@ -188,7 +188,7 @@
     "url": "https://programapremianavidad.com",
     "slug": "programapremianavidad",
     "status": "down",
-    "uptime": "95.90%",
+    "uptime": "96.01%",
     "time": 0
   },
   {
@@ -252,7 +252,7 @@
     "url": "https://spi-online.com",
     "slug": "spionline",
     "status": "down",
-    "uptime": "95.95%",
+    "uptime": "96.06%",
     "time": 0
   },
   {
@@ -260,7 +260,7 @@
     "url": "https://superacionjd.com",
     "slug": "superacion-jd",
     "status": "down",
-    "uptime": "95.96%",
+    "uptime": "96.07%",
     "time": 0
   },
   {
