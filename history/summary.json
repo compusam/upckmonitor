@@ -163,16 +163,16 @@
     "name": "Motivale",
     "url": "http://motivale.com",
     "slug": "motivale",
-    "status": "down",
-    "uptime": "98.78%",
-    "time": 302
+    "status": "up",
+    "uptime": "98.80%",
+    "time": 309
   },
   {
     "name": "Premianavidad",
     "url": "https://premianavidadpepsico.com",
     "slug": "premianavidad",
     "status": "down",
-    "uptime": "95.89%",
+    "uptime": "95.90%",
     "time": 0
   },
   {
@@ -188,7 +188,7 @@
     "url": "https://programapremianavidad.com",
     "slug": "programapremianavidad",
     "status": "down",
-    "uptime": "95.89%",
+    "uptime": "95.90%",
     "time": 0
   },
   {
@@ -260,7 +260,7 @@
     "url": "https://superacionjd.com",
     "slug": "superacion-jd",
     "status": "down",
-    "uptime": "95.95%",
+    "uptime": "95.96%",
     "time": 0
   },
   {
