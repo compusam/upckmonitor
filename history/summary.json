@@ -43,9 +43,9 @@
     "name": "CNV",
     "url": "https://circulodehonorpepsico.com",
     "slug": "cnv",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 569
+    "status": "down",
+    "uptime": "99.98%",
+    "time": 530
   },
   {
     "name": "Conexionescollins",
@@ -140,7 +140,7 @@
     "url": "https://liderescs.com.mx",
     "slug": "lidereshell",
     "status": "down",
-    "uptime": "96.01%",
+    "uptime": "96.04%",
     "time": 0
   },
   {
@@ -172,7 +172,7 @@
     "url": "https://premianavidadpepsico.com",
     "slug": "premianavidad",
     "status": "down",
-    "uptime": "96.03%",
+    "uptime": "96.05%",
     "time": 0
   },
   {
@@ -188,7 +188,7 @@
     "url": "https://programapremianavidad.com",
     "slug": "programapremianavidad",
     "status": "down",
-    "uptime": "96.03%",
+    "uptime": "96.05%",
     "time": 0
   },
   {
@@ -252,7 +252,7 @@
     "url": "https://spi-online.com",
     "slug": "spionline",
     "status": "down",
-    "uptime": "96.08%",
+    "uptime": "96.10%",
     "time": 0
   },
   {
@@ -260,7 +260,7 @@
     "url": "https://superacionjd.com",
     "slug": "superacion-jd",
     "status": "down",
-    "uptime": "96.09%",
+    "uptime": "96.11%",
     "time": 0
   },
   {
