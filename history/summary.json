@@ -44,7 +44,7 @@
     "url": "https://circulodehonorpepsico.com",
     "slug": "cnv",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.53%",
     "time": 530
   },
   {
@@ -76,7 +76,7 @@
     "url": "https://desafiopepsico.com",
     "slug": "desafio-pepsico",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "time": 148
   },
   {
@@ -100,7 +100,7 @@
     "url": "https://erewardsmx.com",
     "slug": "erewardsmx",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.35%",
     "time": 860
   },
   {
@@ -116,7 +116,7 @@
     "url": "https://honorpremia.com",
     "slug": "honorpremia",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.72%",
     "time": 566
   },
   {
@@ -140,7 +140,7 @@
     "url": "https://liderescs.com.mx",
     "slug": "lidereshell",
     "status": "down",
-    "uptime": "97.18%",
+    "uptime": "97.40%",
     "time": 0
   },
   {
@@ -164,7 +164,7 @@
     "url": "http://motivale.com",
     "slug": "motivale",
     "status": "up",
-    "uptime": "98.96%",
+    "uptime": "99.04%",
     "time": 323
   },
   {
@@ -172,7 +172,7 @@
     "url": "https://premianavidadpepsico.com",
     "slug": "premianavidad",
     "status": "down",
-    "uptime": "97.19%",
+    "uptime": "97.41%",
     "time": 0
   },
   {
@@ -188,7 +188,7 @@
     "url": "https://programapremianavidad.com",
     "slug": "programapremianavidad",
     "status": "down",
-    "uptime": "97.19%",
+    "uptime": "97.41%",
     "time": 0
   },
   {
@@ -211,9 +211,9 @@
     "name": "Raisingthebar",
     "url": "https://raisingthebarmexico.mx",
     "slug": "raisingthebar",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 200
+    "status": "down",
+    "uptime": "99.99%",
+    "time": 182
   },
   {
     "name": "Recibetucodigo",
@@ -252,7 +252,7 @@
     "url": "https://spi-online.com",
     "slug": "spionline",
     "status": "down",
-    "uptime": "97.22%",
+    "uptime": "97.44%",
     "time": 0
   },
   {
@@ -260,7 +260,7 @@
     "url": "https://superacionjd.com",
     "slug": "superacion-jd",
     "status": "down",
-    "uptime": "97.23%",
+    "uptime": "97.44%",
     "time": 0
   },
   {
