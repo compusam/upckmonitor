@@ -124,7 +124,7 @@
     "url": "https://jactopremios.com",
     "slug": "jacto",
     "status": "down",
-    "uptime": "91.59%",
+    "uptime": "91.54%",
     "time": 595
   },
   {
@@ -163,9 +163,9 @@
     "name": "Motivale",
     "url": "http://motivale.com",
     "slug": "motivale",
-    "status": "down",
-    "uptime": "99.42%",
-    "time": 348
+    "status": "up",
+    "uptime": "99.43%",
+    "time": 350
   },
   {
     "name": "Premianavidad",
